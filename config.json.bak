@@ -1,0 +1,189 @@
+{
+  "server": {
+    "game": {
+      "version": "1.18.2"
+    }
+  },
+  "mods": [
+    {
+      "url": "https://modrinth.com/mod/fabric-api",
+      "name": "Fabric API",
+      "modrinthId": "P7dR8mSH",
+      "version": "0.58.0+1.18.2",
+      "files": [
+        {
+          "filename": "fabric-api-0.58.0+1.18.2.jar",
+          "file": {
+            "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.58.0+1.18.2/fabric-api-0.58.0%2B1.18.2.jar",
+            "sha512": "92317b8d48b20d1b370ab67e4954d1db4861b8fb561935edc0c0fc8a525fefbd3c159f3cfbf83ec3455e3179561fab554645138c6d79f5f597abea77dc1a03ed"
+          }
+        }
+      ]
+    },
+    {
+      "url": "https://modrinth.com/mod/fabric-language-kotlin",
+      "name": "Fabric Language Kotlin",
+      "modrinthId": "Ha28R6CL",
+      "version": "1.8.2+kotlin.1.7.10",
+      "files": [
+        {
+          "filename": "fabric-language-kotlin-1.8.2+kotlin.1.7.10.jar",
+          "file": {
+            "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/1.8.2+kotlin.1.7.10/fabric-language-kotlin-1.8.2%2Bkotlin.1.7.10.jar",
+            "sha512": "17a34331793f62eafa9988a5a95caf832b9b7f2d69397d286a6805250bb7d40401e19ef95e422342dc7a8943d944783127d1af57b1c192ad652dd33e82ad732e"
+          }
+        }
+      ]
+    },
+    {
+      "url": "https://modrinth.com/mod/iris",
+      "name": "Iris Shaders",
+      "modrinthId": "YL57xq9U",
+      "version": "1.18.x-v1.2.6",
+      "files": [
+        {
+          "filename": "iris-mc1.18.2-1.2.6.jar",
+          "file": {
+            "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/1.18.x-v1.2.6/iris-mc1.18.2-1.2.6.jar",
+            "sha512": "50ce69ece18ff95cd2586b643e51ddca41da579cd405b684dfdec4b20b7287c8002bf6367ff23e3e8570efa348e05093a47450e26517ef9b81529c39de04302e"
+          }
+        }
+      ]
+    },
+    {
+      "url": "https://modrinth.com/mod/sodium",
+      "name": "Sodium",
+      "modrinthId": "AANobbMI",
+      "version": "mc1.18.2-0.4.1",
+      "files": [
+        {
+          "filename": "sodium-fabric-mc1.18.2-0.4.1+build.15.jar",
+          "file": {
+            "url": "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18.2-0.4.1/sodium-fabric-mc1.18.2-0.4.1%2Bbuild.15.jar",
+            "sha512": "86eb4db8fdb9f0bb06274c4f150b55273b5b770ffc89e0ba68011152a231b79ebe0b1adda0dd194f92cdcb386f7a60863d9fee5d15c1c3547ffa22a19083a1ee"
+          }
+        }
+      ]
+    },
+    {
+      "url": "https://modrinth.com/mod/inventory-profiles-next",
+      "name": "Inventory Profiles Next",
+      "modrinthId": "O7RBXm3n",
+      "version": "fabric-1.18.2-1.6.5",
+      "files": [
+        {
+          "filename": "InventoryProfilesNext-fabric-1.18.2-1.6.5.jar",
+          "file": {
+            "url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/yN4h9Kop/InventoryProfilesNext-fabric-1.18.2-1.6.5.jar",
+            "sha512": "a665604a9f16801d002a8a91d197715de1d36633269ff85d6959010eb076b86a3b6376f104602db601cb7cf9da909c47e0b466c81df7f3082ae1a0cc7c98b363"
+          }
+        }
+      ]
+    },
+    {
+      "url": "https://modrinth.com/mod/modmenu",
+      "name": "Mod Menu",
+      "modrinthId": "mOgUt4GM",
+      "version": "3.2.3",
+      "files": [
+        {
+          "filename": "modmenu-3.2.3.jar",
+          "file": {
+            "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/3.2.3/modmenu-3.2.3.jar",
+            "sha512": "e5cb08f55ad3b678a02bfe56c47b378cbfd92a5002807786d64eedf035c07ccbd68af5a72672ae159c18a3fe46871502aa281c0e9ef9e6731e1dca02fc942761"
+          }
+        }
+      ]
+    },
+    {
+      "url": "https://modrinth.com/mod/universal-graves",
+      "name": "Universal Graves",
+      "modrinthId": "yn9u3ypm",
+      "version": "2.0.3+1.18.2",
+      "files": [
+        {
+          "filename": "graves-2.0.3+1.18.2.jar",
+          "file": {
+            "url": "https://cdn.modrinth.com/data/yn9u3ypm/versions/2.0.3+1.18.2/graves-2.0.3%2B1.18.2.jar",
+            "sha512": "d74fc559d28c98ae62dc5e77e9da7443ba8867a92dc1841270f7b23fcb967701d00b9d22655a4a8b6296719f792f3154a1f49489f21f2646188b2329fae4ebff"
+          }
+        }
+      ]
+    },
+    {
+      "url": "https://modrinth.com/mod/emi",
+      "name": "EMI",
+      "modrinthId": "fRiHVvU7",
+      "version": "0.3.4+1.18.2",
+      "files": [
+        {
+          "filename": "emi-0.3.4+1.18.2.jar",
+          "file": {
+            "url": "https://cdn.modrinth.com/data/fRiHVvU7/versions/n7JoPQix/emi-0.3.4%2B1.18.2.jar",
+            "sha512": "79c6b5539fd98a6468b130e0cbda468945c71c5bba74ab9d6e51c0ee3d56cfc4705435f144b562baeee536370b04b21532b6fce541d302d4f8da317bf8939e53"
+          }
+        }
+      ]
+    },
+    {
+      "url": "https://modrinth.com/mod/imblocker",
+      "name": "IMBlockerFabric",
+      "modrinthId": "752GQt04",
+      "version": "1.0.19",
+      "files": [
+        {
+          "filename": "imblockerfabric-1.0.19.jar",
+          "file": {
+            "url": "https://cdn.modrinth.com/data/752GQt04/versions/1.0.19/imblockerfabric-1.0.19.jar",
+            "sha512": "c60d2f4acdca7543207683b04df6445b50ee97fa18e14c667f3d8d8bf287ee89d987f9ca0c28477c584fd064603c612a87b75551fca55f4db842c0ad80619b19"
+          }
+        }
+      ]
+    },
+    {
+      "url": "https://modrinth.com/mod/trinkets",
+      "name": "Trinkets",
+      "modrinthId": "5aaWibi9",
+      "version": "3.3.1",
+      "files": [
+        {
+          "filename": "trinkets-3.3.1.jar",
+          "file": {
+            "url": "https://cdn.modrinth.com/data/5aaWibi9/versions/3.3.1/trinkets-3.3.1.jar",
+            "sha512": "432fd889b941268a820b418b14d6908d25394b478273ce1b5614fa6a385ca634711a52003dd552839a8adee9e220d71b0ee15a59a3b7edfcb06b35901d36d3d7"
+          }
+        }
+      ]
+    },
+    {
+      "url": "https://modrinth.com/mod/patchouli",
+      "name": "Patchouli",
+      "modrinthId": "nU0bVIaL",
+      "version": "1.18.2-71.1-fabric",
+      "files": [
+        {
+          "filename": "Patchouli-1.18.2-71.1-FABRIC.jar",
+          "file": {
+            "url": "https://cdn.modrinth.com/data/nU0bVIaL/versions/1.18.2-71.1-fabric/Patchouli-1.18.2-71.1-FABRIC.jar",
+            "sha512": "0f4d1b88273c15df38cd979a71c272b68ea2911bde3d5a94d5c4cbf49fb4a17b5ff4cb5d9daf6e80c10331e3ad6c1f980c6d32e3a4874c790ff7ebe055de19e2"
+          }
+        }
+      ]
+    },
+    {
+      "url": "https://modrinth.com/mod/botania",
+      "name": "Botania",
+      "modrinthId": "pfjLUfGv",
+      "version": "1.18.2-435-fabric",
+      "files": [
+        {
+          "filename": "Botania-1.18.2-435-FABRIC.jar",
+          "file": {
+            "url": "https://cdn.modrinth.com/data/pfjLUfGv/versions/1.18.2-435-fabric/Botania-1.18.2-435-FABRIC.jar",
+            "sha512": "596091a7215e206098d2c19ec8a3f9b34195e6b514945bb9f7daae5eec2d6b0a25be6ed1cab36c9cdc1d2f071c5bb5164e6f2a1b0a5a60fdca5364fa988eb1a2"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "server": {
+    "game": {
+      "version": "1.18.2"
+    }
+  },
+  "mods": [
+    "https://modrinth.com/mod/fabric-api",
+    "https://modrinth.com/mod/fabric-language-kotlin",
+    "https://modrinth.com/mod/iris",
+    "https://modrinth.com/mod/sodium",
+    "https://modrinth.com/mod/inventory-profiles-next",
+    "https://modrinth.com/mod/modmenu",
+    "https://modrinth.com/mod/universal-graves",
+    "https://modrinth.com/mod/emi",
+    "https://modrinth.com/mod/imblocker",
+    
+    "https://modrinth.com/mod/trinkets",
+    "https://modrinth.com/mod/patchouli",
+    "https://modrinth.com/mod/botania"
+  ]
+}
