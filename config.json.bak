@@ -69,13 +69,13 @@
       "url": "https://modrinth.com/mod/inventory-profiles-next",
       "name": "Inventory Profiles Next",
       "modrinthId": "O7RBXm3n",
-      "version": "fabric-1.18.2-1.7.0",
+      "version": "fabric-1.18.2-1.7.1",
       "files": [
         {
-          "filename": "InventoryProfilesNext-fabric-1.18.2-1.7.0.jar",
+          "filename": "InventoryProfilesNext-fabric-1.18.2-1.7.1.jar",
           "file": {
-            "url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/v2l0CVUr/InventoryProfilesNext-fabric-1.18.2-1.7.0.jar",
-            "sha512": "4d9036363922372a8a86f44016ffb3b6f9898f30bfde4dd41fa465ec8328d9a18e661cf7df4170a2571c9ecdb7364535a2db35b5583400132547a180b465542f"
+            "url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/SolCzSgU/InventoryProfilesNext-fabric-1.18.2-1.7.1.jar",
+            "sha512": "c648c26beaaa61bc100dcf768ae8970170c88aaa3b0ab8b10d30bcc415eefc48f277f2209a1464b2683bba1664e77853701fd9a4ec7bc7cc586031ae9def087b"
           }
         }
       ]
@@ -114,13 +114,13 @@
       "url": "https://modrinth.com/mod/emi",
       "name": "EMI",
       "modrinthId": "fRiHVvU7",
-      "version": "0.3.4+1.18.2",
+      "version": "0.4.0+1.18.2",
       "files": [
         {
-          "filename": "emi-0.3.4+1.18.2.jar",
+          "filename": "emi-0.4.0+1.18.2.jar",
           "file": {
-            "url": "https://cdn.modrinth.com/data/fRiHVvU7/versions/n7JoPQix/emi-0.3.4%2B1.18.2.jar",
-            "sha512": "79c6b5539fd98a6468b130e0cbda468945c71c5bba74ab9d6e51c0ee3d56cfc4705435f144b562baeee536370b04b21532b6fce541d302d4f8da317bf8939e53"
+            "url": "https://cdn.modrinth.com/data/fRiHVvU7/versions/RgQ7FrsH/emi-0.4.0%2B1.18.2.jar",
+            "sha512": "64931cec771b1a50a22d9c7e7d00b1ca5268834b05903e4a76d097eebc41f4834a954dbb92526e8143eb987b630170ff1cd01a258db0af1fe0a3f4602f88d479"
           }
         }
       ]
