@@ -104,7 +104,7 @@
         {
           "filename": "graves-2.0.3+1.18.2.jar",
           "file": {
-            "url": "https://cdn.modrinth.com/data/yn9u3ypm/versions/2.0.3+1.18.2/graves-2.0.3%2B1.18.2.jar",
+            "url": "https://cdn.modrinth.com/data/yn9u3ypm/versions/2.0.3%2B1.18.2/graves-2.0.3%2B1.18.2.jar",
             "sha512": "d74fc559d28c98ae62dc5e77e9da7443ba8867a92dc1841270f7b23fcb967701d00b9d22655a4a8b6296719f792f3154a1f49489f21f2646188b2329fae4ebff"
           }
         }
