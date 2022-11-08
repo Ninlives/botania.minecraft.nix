@@ -9,13 +9,13 @@
       "url": "https://modrinth.com/mod/fabric-api",
       "name": "Fabric API",
       "modrinthId": "P7dR8mSH",
-      "version": "0.59.1+1.18.2",
+      "version": "0.66.0+1.18.2",
       "files": [
         {
-          "filename": "fabric-api-0.59.1+1.18.2.jar",
+          "filename": "fabric-api-0.66.0+1.18.2.jar",
           "file": {
-            "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/gjysTPsx/fabric-api-0.59.1%2B1.18.2.jar",
-            "sha512": "1f8159283d87f4b73c1b1198508b3a9641893117c23bcecc9cd855c069d01d9da2663346eaf9338a2eba6a207943de38be3d2718af4b50667a3ca9187a8cad3a"
+            "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/yQIU5REa/fabric-api-0.66.0%2B1.18.2.jar",
+            "sha512": "cfcffe3ed3aef4b5a66a71cad8f1bbb8a7793d345f5b6549601e4cc8461bee465faaa134dd0e7419ba241c5d8423e45c40088cc82525d2c2fe6574de15671027"
           }
         }
       ]
