@@ -39,13 +39,13 @@
       "url": "https://modrinth.com/mod/iris",
       "name": "Iris Shaders",
       "modrinthId": "YL57xq9U",
-      "version": "1.18.x-v1.4.0",
+      "version": "1.18.x-v1.4.2",
       "files": [
         {
-          "filename": "iris-mc1.18.2-1.4.0.jar",
+          "filename": "iris-mc1.18.2-1.4.2.jar",
           "file": {
-            "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/1BCkW8RE/iris-mc1.18.2-1.4.0.jar",
-            "sha512": "813dce353ff251f0986ed61bcdf7509b0081311b1e8ffdcae8d39e3607c27cecd1d07df54a745895e4559f6fa7ed2f9c888c61ae96a0807594428c5d9d1e7d0a"
+            "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/RoOgJaef/iris-mc1.18.2-1.4.2.jar",
+            "sha512": "5f2782c3469a9e9f800551af3a90a2c517347c72a95c419b2c150ab99a548a5ade5a73d760461a18050a32c3416f498f152f5e20a76c18150aefb7916f2b6ad5"
           }
         }
       ]
