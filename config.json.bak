@@ -114,13 +114,13 @@
       "url": "https://modrinth.com/mod/emi",
       "name": "EMI",
       "modrinthId": "fRiHVvU7",
-      "version": "0.4.2+1.18.2",
+      "version": "0.4.3+1.18.2",
       "files": [
         {
-          "filename": "emi-0.4.2+1.18.2.jar",
+          "filename": "emi-0.4.3+1.18.2.jar",
           "file": {
-            "url": "https://cdn.modrinth.com/data/fRiHVvU7/versions/olpu7zwd/emi-0.4.2%2B1.18.2.jar",
-            "sha512": "80fa1e7831d94c06ac28e431d89f1a5461c424a1b1491d4b5f6ae9e694cf684d968194ac0d815b79e987021f9c2ec52b2ab75d8bd155a6db56542b41ffe69ab5"
+            "url": "https://cdn.modrinth.com/data/fRiHVvU7/versions/Nah0xUBl/emi-0.4.3%2B1.18.2.jar",
+            "sha512": "02ff865a12e3af50e0a9e3f363d0db5d8a79ebc4b184b90f071a430b44a628157bf0968a0b750bc1cf360fbadd9dc8e9c3bc6a9886126981291fd2d7dc010ba7"
           }
         }
       ]
