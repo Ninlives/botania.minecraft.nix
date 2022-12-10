@@ -84,13 +84,13 @@
       "url": "https://modrinth.com/mod/modmenu",
       "name": "Mod Menu",
       "modrinthId": "mOgUt4GM",
-      "version": "3.2.4",
+      "version": "3.2.5",
       "files": [
         {
-          "filename": "modmenu-3.2.4.jar",
+          "filename": "modmenu-3.2.5.jar",
           "file": {
-            "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/d86kV6wd/modmenu-3.2.4.jar",
-            "sha512": "07135dfef9a557b78eba22be34bb89f499131f261e08c497d2764b8ef00b5957ddfcf9869c1fe4c6399a3aa12f7b5eacdbbd296e8796fb422636c38e523bc923"
+            "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/nVxObSbX/modmenu-3.2.5.jar",
+            "sha512": "dbf767ed1f5a9c297db004dee65e10abda4bd328899e0337934b50f3e1d9f0866092dca67aa19ac4883528de539c0362f7e7d3f27ecfa9690ff0345389351759"
           }
         }
       ]
