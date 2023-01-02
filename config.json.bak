@@ -39,7 +39,7 @@
       "url": "https://modrinth.com/mod/iris",
       "name": "Iris Shaders",
       "modrinthId": "YL57xq9U",
-      "version": "1.18.x-v1.4.5",
+      "version": "1.4.5+1.18.2",
       "files": [
         {
           "filename": "iris-mc1.18.2-1.4.5.jar",
