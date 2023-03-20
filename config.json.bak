@@ -9,13 +9,13 @@
       "url": "https://modrinth.com/mod/fabric-api",
       "name": "Fabric API",
       "modrinthId": "P7dR8mSH",
-      "version": "0.75.1+1.18.2",
+      "version": "0.76.0+1.18.2",
       "files": [
         {
-          "filename": "fabric-api-0.75.1+1.18.2.jar",
+          "filename": "fabric-api-0.76.0+1.18.2.jar",
           "file": {
-            "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/1cCEN67v/fabric-api-0.75.1%2B1.18.2.jar",
-            "sha512": "d46ba66dc240fc6bc26cac646c079d13462c2f0b28f417315d1ea87072065bdae97842e302cf2c8ed50b47f024cb286d19c9892ca42e1f4fd36b3932cf400a48"
+            "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/95QMsRyb/fabric-api-0.76.0%2B1.18.2.jar",
+            "sha512": "4c8b663ac80a58baa9d6e2589c32dab822d199439cf7dde5421891242c1b49ef1040e3cbf68c97d58e51094d15435f7593c83febd1ffb4942af3ae7cbe828218"
           }
         }
       ]
@@ -114,13 +114,13 @@
       "url": "https://modrinth.com/mod/emi",
       "name": "EMI",
       "modrinthId": "fRiHVvU7",
-      "version": "0.7.0+1.18.2",
+      "version": "0.7.1+1.18.2",
       "files": [
         {
-          "filename": "emi-0.7.0+1.18.2.jar",
+          "filename": "emi-0.7.1+1.18.2.jar",
           "file": {
-            "url": "https://cdn.modrinth.com/data/fRiHVvU7/versions/PuAYjGi1/emi-0.7.0%2B1.18.2.jar",
-            "sha512": "735a62226d160bb2771f0d45b4b62b332a671b7a8ab9f299015ddbd311cd734653dec596d60540530257079e353f242b69ab4d8a84daa3fbe025a7bdeb92c05f"
+            "url": "https://cdn.modrinth.com/data/fRiHVvU7/versions/rKHPdZDJ/emi-0.7.1%2B1.18.2.jar",
+            "sha512": "58084c47bfbe84cfaa736763b23033e7448685dc71f438ad820ac8580546dd151081c173a9596e43b38859a379473c5c13de2ec433396f4ca49dce8ba2fa5ccb"
           }
         }
       ]
