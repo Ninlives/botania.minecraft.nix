@@ -69,13 +69,13 @@
       "url": "https://modrinth.com/mod/inventory-profiles-next",
       "name": "Inventory Profiles Next",
       "modrinthId": "O7RBXm3n",
-      "version": "fabric-1.18.2-1.9.3",
+      "version": "fabric-1.18.2-1.9.4",
       "files": [
         {
-          "filename": "InventoryProfilesNext-fabric-1.18.2-1.9.3.jar",
+          "filename": "InventoryProfilesNext-fabric-1.18.2-1.9.4.jar",
           "file": {
-            "url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/AETGVChK/InventoryProfilesNext-fabric-1.18.2-1.9.3.jar",
-            "sha512": "be3429c1a15f507e421aef5ce02839450b17931151c16a80cd6357fc6f77c7b93b3ac2e5196291125cdeb53186887be5178aa635c069e037e1ceb23cc571a59b"
+            "url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/TDUMFxWH/InventoryProfilesNext-fabric-1.18.2-1.9.4.jar",
+            "sha512": "a261d72cf49980fda2444e2dd2c0b2792a94ed6ec65bb19b94bff55b25222456672bffc09aeaf1042b2ba052c48f7834943c1075d9e46834ae6b53a9ffee9846"
           }
         }
       ]
