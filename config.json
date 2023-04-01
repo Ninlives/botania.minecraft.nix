@@ -24,13 +24,13 @@
       "url": "https://modrinth.com/mod/fabric-language-kotlin",
       "name": "Fabric Language Kotlin",
       "modrinthId": "Ha28R6CL",
-      "version": "1.9.2+kotlin.1.8.10",
+      "version": "1.9.3+kotlin.1.8.20",
       "files": [
         {
-          "filename": "fabric-language-kotlin-1.9.2+kotlin.1.8.10.jar",
+          "filename": "fabric-language-kotlin-1.9.3+kotlin.1.8.20.jar",
           "file": {
-            "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/Ibros2FW/fabric-language-kotlin-1.9.2%2Bkotlin.1.8.10.jar",
-            "sha512": "aa6b385ac7f90e2da3dfd89598ec8d733a35beed35f5995f29227b432ec7cc882155e91edcdae82a4b6e9649acae7b5b13e848411c21b34787559b5f14492113"
+            "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/MkcO8aQ0/fabric-language-kotlin-1.9.3%2Bkotlin.1.8.20.jar",
+            "sha512": "84d88bec4cde93834f47e8c786b52991eceafe7a3e85dc8842a1e4b9b959020e3afe68ff2d961a2d8b5ac7443cbc271d1f070ec668d8ae8f930b3ca7007a9ac6"
           }
         }
       ]
@@ -114,13 +114,13 @@
       "url": "https://modrinth.com/mod/emi",
       "name": "EMI",
       "modrinthId": "fRiHVvU7",
-      "version": "0.7.2+1.18.2",
+      "version": "0.7.3+1.18.2",
       "files": [
         {
-          "filename": "emi-0.7.2+1.18.2.jar",
+          "filename": "emi-0.7.3+1.18.2.jar",
           "file": {
-            "url": "https://cdn.modrinth.com/data/fRiHVvU7/versions/l9ixr9Dk/emi-0.7.2%2B1.18.2.jar",
-            "sha512": "f7d99898484450d0b4bf70c494e56bc434c7db84723f669c3bd8bdf7c40a0024fe4888b792ada1e112ce7c417bbf6187aaabc9286d3c0baf0b0e3e05a42613ff"
+            "url": "https://cdn.modrinth.com/data/fRiHVvU7/versions/DDkCVTmY/emi-0.7.3%2B1.18.2.jar",
+            "sha512": "74e1805e68303222480b563d9cde6db8925937d72d9848bf381c74273701db30adf9b21d9e39895a4fcf8e9ef315ba694e149372f2c205627f1e1362bb824159"
           }
         }
       ]
