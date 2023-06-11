@@ -24,13 +24,13 @@
       "url": "https://modrinth.com/mod/fabric-language-kotlin",
       "name": "Fabric Language Kotlin",
       "modrinthId": "Ha28R6CL",
-      "version": "1.9.4+kotlin.1.8.21",
+      "version": "1.9.5+kotlin.1.8.22",
       "files": [
         {
-          "filename": "fabric-language-kotlin-1.9.4+kotlin.1.8.21.jar",
+          "filename": "fabric-language-kotlin-1.9.5+kotlin.1.8.22.jar",
           "file": {
-            "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/qgTQJrUS/fabric-language-kotlin-1.9.4%2Bkotlin.1.8.21.jar",
-            "sha512": "8e40d55cabd2e7801c5bff020bfefc072facaf86ef14e119f248e212f49caff350c3fe044fd99a1b1a087b0466409be7c1c3e0f0dbd9e07e568a13625dfda342"
+            "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/ADg3gvlr/fabric-language-kotlin-1.9.5%2Bkotlin.1.8.22.jar",
+            "sha512": "8fda82f8a1fdc104fc33b54e35413590541ade39091df8464d31387ef8b5bc7f7a55dabba32109b79c54d8fdf40b7cd60240da131be68f450887a3345823c16b"
           }
         }
       ]
@@ -69,13 +69,13 @@
       "url": "https://modrinth.com/mod/inventory-profiles-next",
       "name": "Inventory Profiles Next",
       "modrinthId": "O7RBXm3n",
-      "version": "fabric-1.18.2-1.10.2",
+      "version": "fabric-1.18.2-1.10.3",
       "files": [
         {
-          "filename": "InventoryProfilesNext-fabric-1.18.2-1.10.2.jar",
+          "filename": "InventoryProfilesNext-fabric-1.18.2-1.10.3.jar",
           "file": {
-            "url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/DO3qG5tG/InventoryProfilesNext-fabric-1.18.2-1.10.2.jar",
-            "sha512": "6c8a9e1f21d0e13d984ad13e418ac19dfbcbb197418f955e823189ccc6c9a2c1c9dce55d779197cf04bc56842b3242e2685d1e3f424142028a192034c264e491"
+            "url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/LuynblUR/InventoryProfilesNext-fabric-1.18.2-1.10.3.jar",
+            "sha512": "13d4efa96ab2d598be3cd9f1b42a77226793c88ccafc0ea8c4b398c0d7cbbc952f5ee8a7596378e4697473528e07489d22fec872faba4ef28a533ee5d902c1f2"
           }
         }
       ]
