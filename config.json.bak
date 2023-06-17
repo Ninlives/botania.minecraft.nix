@@ -129,13 +129,13 @@
       "url": "https://modrinth.com/mod/imblocker",
       "name": "IMBlockerFabric",
       "modrinthId": "752GQt04",
-      "version": "1.0.21",
+      "version": "1.0.23",
       "files": [
         {
-          "filename": "imblockerfabric-1.0.21.jar",
+          "filename": "imblockerfabric-1.0.23.jar",
           "file": {
-            "url": "https://cdn.modrinth.com/data/752GQt04/versions/MYodL2ME/imblockerfabric-1.0.21.jar",
-            "sha512": "b7f3e8a72b46c006e22041b72d77294be51fec65904b7e0bb60fd1209130678dd406111a223678b4ec00dff4a559bd616b80fab49630d7d6a97a0cd92ba8bab5"
+            "url": "https://cdn.modrinth.com/data/752GQt04/versions/MGxMpFT6/imblockerfabric-1.0.23.jar",
+            "sha512": "55f38ceb003335488200ef93885eed72396f2aa7874cb12e8ef72bf5ca24cbdc79af7843e1773937a797e45e0c9980fb9fe64eb9c61498463b565ee86e146039"
           }
         }
       ]
