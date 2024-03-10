@@ -24,13 +24,13 @@
       "url": "https://modrinth.com/mod/fabric-language-kotlin",
       "name": "Fabric Language Kotlin",
       "modrinthId": "Ha28R6CL",
-      "version": "1.10.18+kotlin.1.9.22",
+      "version": "1.10.19+kotlin.1.9.23",
       "files": [
         {
-          "filename": "fabric-language-kotlin-1.10.18+kotlin.1.9.22.jar",
+          "filename": "fabric-language-kotlin-1.10.19+kotlin.1.9.23.jar",
           "file": {
-            "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/vlhvI5Li/fabric-language-kotlin-1.10.18%2Bkotlin.1.9.22.jar",
-            "sha512": "d7a9989f9e47c1c10e3c33551478cd9422250bf4f61e7f8ff3b6ee16c87e7dc458fed998c963a2e1c3bc39b7d338e9e334ce70ecdb0e66011d71e8948216e21c"
+            "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/ZMokinzs/fabric-language-kotlin-1.10.19%2Bkotlin.1.9.23.jar",
+            "sha512": "0c31443b5061d85787de452d1dc0196a0e3391146aa5f030ef5fa95558b0f2b2bb9a0613fc0e5621e9d796d06e717fef0d0c98046f4ead04d150e0eb2d19abdc"
           }
         }
       ]
